@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://git config --global user.email \"63143003@g.cmru.ac.th\"",
+            "request": "launch",
+            "url": "http://git config --global user.email \"63143003@g.cmru.ac.th\""
+        }
+    ]
+}
